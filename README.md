@@ -27,8 +27,8 @@ This app requires the following dependencies:
 
 ## Screenshots
 
-//![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home.png)
 
-//![PDF Screen](screenshots/pdf.png)
+![PDF Screen](screenshots/PDFscreen.png)
 
-//![About Us Screen](screenshots/about_us.png)
+![About Us Screen](screenshots/about_us.png)
