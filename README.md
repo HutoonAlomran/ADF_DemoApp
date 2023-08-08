@@ -24,11 +24,3 @@ This app requires the following dependencies:
 
 - flutter_cached_pdfview: ^2.0.0
 - flutter: sdk: flutter
-
-## Screenshots
-
-![Home Screen](screenshots/Home.png)
-
-![PDF Screen](screenshots/PDFscreen.png)
-
-![About Us Screen](screenshots/about_us.png)
