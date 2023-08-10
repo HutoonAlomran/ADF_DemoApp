@@ -1,4 +1,4 @@
-# ADF Demo App
+# <img src="https://img.icons8.com/color/48/000000/document.png"/>![image](https://github.com/HutoonAlomran/ADF_DemoApp/assets/105802149/a08e9946-4f73-462a-803f-8252ec18a9a0) ADF Demo App
 
 This is a simple Flutter demo app created for learning Flutter basics. The app has four screens: the Home screen, the User's Manual screen, the About Us screen, and the Contact Us screen.
 
@@ -29,3 +29,6 @@ This app requires the following dependencies:
 - flutter_cached_pdfview: ^2.0.0
 -  webview_flutter: ^4.2.2
 - flutter: sdk: flutter"
+
+## Tools
+<img src="https://img.icons8.com/fluent/48/000000/flutter.png"/>
