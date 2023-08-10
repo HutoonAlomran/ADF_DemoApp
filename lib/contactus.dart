@@ -28,12 +28,12 @@ class _ContactUsState extends State<ContactUs> {
         });
       },
       onWebResourceError: (error) {},
-      onNavigationRequest: (request) {
+      /*onNavigationRequest: (request) {
         if (request.url.startsWith('www.google.com')) {
           return NavigationDecision.prevent;
         }
         return NavigationDecision.navigate;
-      },
+      },*/
     ))
     ..loadRequest(
         Uri.parse('https://adf.gov.sa/ar/Help/ContactUs/Pages/default.aspx'));
