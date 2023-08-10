@@ -1,4 +1,4 @@
-"# ADF DEMO pp
+# ADF Demo App
 
 This is a simple Flutter demo app created for learning Flutter basics. The app has four screens: the Home screen, the User's Manual screen, the About Us screen, and the Contact Us screen.
 
