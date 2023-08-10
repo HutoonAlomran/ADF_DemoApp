@@ -6,7 +6,7 @@ This is a simple Flutter demo app created for learning Flutter basics. The app h
 
 The home screen displays the logo and three buttons: "دليل المستخدم", "من نحن", "اتصل بنا". When the user taps the "دليل المستخدم" button, they are taken to the PDF screen. When the user taps the "من نحن" button, they are taken to the About Us screen. When the user taps the "اتصل بنا" button, they are taken to the Contact Us screen.
 
-## PDF Screen
+## User's Manual screen
 
 The PDF screen displays the PDF document "Eservices_UM2022.pdf" from the website "https://adf.gov.sa". The PDF is loaded using the `flutter_cached_pdfview` package, which caches the document for faster loading in the future.
 
