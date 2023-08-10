@@ -4,7 +4,7 @@ This is a simple Flutter demo app created for learning Flutter basics. The app h
 
 ## Home Screen
 
-The home screen displays the logo of the Agriculture Development Fund and three buttons: "دليل المستخدم", "من نحن", "اتصل بنا". When the user taps the "دليل المستخدم" button, they are taken to the PDF screen. When the user taps the "من نحن" button, they are taken to the About Us screen. When the user taps the "اتصل بنا" button, they are taken to the Contact Us screen.
+The home screen displays the logo and three buttons: "دليل المستخدم", "من نحن", "اتصل بنا". When the user taps the "دليل المستخدم" button, they are taken to the PDF screen. When the user taps the "من نحن" button, they are taken to the About Us screen. When the user taps the "اتصل بنا" button, they are taken to the Contact Us screen.
 
 ## PDF Screen
 
@@ -16,19 +16,7 @@ The About Us screen provides information about the Agriculture Development Fund,
 
 ## Contact Us Screen
 
-The Contact Us screen allows users to get in touch with the Agriculture Development Fund. It provides a web view of the contact page from the official website of the Agriculture Development Fund (https://adf.gov.sa/ar/Help/ContactUs/Pages/default.aspx). Users can fill out a form with their contact details and submit inquiries, feedback, or support requests.
-
-## How to Use
-
-To use this app, clone the repository and run it using Flutter. The app requires an active internet connection to load the PDF document and the contact page.
-
-## Dependencies
-
-This app requires the following dependencies:
-
-- flutter_cached_pdfview: ^2.0.0
--  webview_flutter: ^4.2.2
-- flutter: sdk: flutter"
+The Contact Us screen allows users to get in touch with the Agriculture Development Fund. It provides a web view of the contact page from the official website of the ADF (https://adf.gov.sa/ar/Help/ContactUs/Pages/default.aspx). Users can fill out a form with their contact details and submit inquiries, feedback, or support requests.
 
 ## Tools
 <img src="https://img.icons8.com/fluent/48/000000/flutter.png"/>
